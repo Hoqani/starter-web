@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Faisal AL-Hoqani -- f.h.hoqani@gmail.com -- @fhoqani
 
 # THANKS
 
