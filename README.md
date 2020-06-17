@@ -13,5 +13,9 @@
 -## Stage level
 -
 -I start learning and using Git/GitHub
+
+## How To Contrbute
+
+Please fork the repository and then make pull request
 -
 -###Add Copy Right Comments
