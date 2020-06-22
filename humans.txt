@@ -17,5 +17,8 @@
 #Programming Languges
 
 C#, SQL, TypeScript, Dart, JavaScript	
-	
+
+#Databases
+
+PostgreSQL, MySql, Oracle, MongoDb, Microsoft SqlServer, 	
 	
